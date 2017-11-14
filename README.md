@@ -6,3 +6,4 @@
 5. numof1.c 判断数字二进制中有多少个1
 6. numofint.c 判断数字里面有多少个1，5，10
 7. re.c 反向输出一个数组
+8. sumofeven.c和sumofeven2.c 计算n到m之间奇数的和的两种方法
